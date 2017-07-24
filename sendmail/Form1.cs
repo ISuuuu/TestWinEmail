@@ -17,6 +17,7 @@ namespace sendmail
         {
             InitializeComponent();
             //http://blog.csdn.net/xianshuang/article/details/3734431
+            //llllllllllllllllllllllllllllllllll
         }
 
         private void button1_Click(object sender, EventArgs e)

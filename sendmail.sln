@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sendmail", "sendmail\sendma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinEmailPass", "WinEmailPass\WinEmailPass.csproj", "{6BBAB292-A848-406E-8742-78EF66E180DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaReadLine", "CaReadLine\CaReadLine.csproj", "{6972EB91-E15A-4CBE-B3AA-0229CC604BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6BBAB292-A848-406E-8742-78EF66E180DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BBAB292-A848-406E-8742-78EF66E180DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BBAB292-A848-406E-8742-78EF66E180DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6972EB91-E15A-4CBE-B3AA-0229CC604BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6972EB91-E15A-4CBE-B3AA-0229CC604BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6972EB91-E15A-4CBE-B3AA-0229CC604BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6972EB91-E15A-4CBE-B3AA-0229CC604BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
